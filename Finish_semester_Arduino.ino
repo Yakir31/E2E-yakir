@@ -43,7 +43,7 @@ void loop() {
       }   
  
   } 
-    Serial.println("=="); 
+    Serial.println("=========="); 
   delay(100);
  
 }
